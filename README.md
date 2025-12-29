@@ -24,7 +24,7 @@ El objetivo es reproducir la disposición visual de los elementos respetando tam
 
 ### 🖼 Figura de referencia
 
-![Ejercicio ConstraintLayout](./3717b578-0100-497d-8098-1a5b9785f980.png)
+![Ejercicio ConstraintLayout](images/constarint_layout_excercise.png)
 
 ---
 
