@@ -42,3 +42,17 @@ El objetivo es reproducir la disposición visual de los elementos respetando tam
 - Kotlin
 - Jetpack Compose
 - Android Studio
+
+
+--------
+
+## 📘 Ejercicio 2 – TextField y Text
+
+### 📌 Descripción
+
+Implementar en **Jetpack Compose** el siguiente input de tipo password, con ofuscación y visualización mediante el click en el icono correspondiente:
+
+----
+### 🖼 Figura de referencia
+![Ejercicio ConstraintLayout](images/editText.png)
+
