@@ -56,3 +56,16 @@ Implementar en **Jetpack Compose** el siguiente input de tipo password, con ofus
 ### 🖼 Figura de referencia
 ![Ejercicio ConstraintLayout](images/editText.png)
 
+
+--------
+
+## 📘 Ejercicio 3 – CheckBox y TriStateCheckBox
+
+### 📌 Descripción
+
+Implementar en **Jetpack Compose** el siguiente triStateCheckBox el cual debe controlar a sus dos checkBox hijos, el triStateCheckBox debe habilitar a sus dos hijos si es habilitado y deshabilitarlos en caso de ser deshabilitado. De igual manera al clickar y habilitar los dos hijos el TriState padre se debe habilitar, caso contrario al deshabilitarlos. Si hay un hijo habilitado y otro deshabilitado, el tristate padre debe pasar a estado indefinido. 
+
+----
+### 🖼 Figura de referencia
+![Ejercicio ConstraintLayout](images/tristate.png)
+
